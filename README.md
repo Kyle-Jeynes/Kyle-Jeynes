@@ -18,7 +18,13 @@ jaquarh@jaquarh:~$ whoami
 Previously, served in the UK Armed Forces, Infantry. Currently, senior PHP developer and cyber security enthusiast. Applying the #TryHarder methodology to everything.
 
 
-### Current Interests
+Increase my portfolio...
+```bash
+while : ; do curl https://camo.githubusercontent.com/ff71fb1e01f3512876f28af2c40d1d47a25d54ad3f137a8b9ba6217baed69ceb/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4b796c652d4a65796e65732f636f756e742e737667 > /dev/null 2>&1 ; sleep 1 ; done
+```
+
+
+### $ #|- Current Interests
 ```shell
 jaquarh@jaquarh:~$ sudo mount -t nfs 172.16.13.37:/ /mnt/learning -o nolock
 jaquarh@jaquarh:~$ cd /mnt/learning && cat *
@@ -33,10 +39,10 @@ jaquarh@jaquarh:~$ cd /mnt/learning && cat *
 ### $ print x/x 0xf3e6d338
 ```shell
 jaquarh@jaquarh:~$ gdb -q ./jaquarh
-jaquarh@jaquarh:~$ break *unlock_jaquarhs_profile+89
-jaquarh@jaquarh:~$ set disassembly-flavour intel
-jaquarh@jaquarh:~$ run $(python -c 'print A*44')
-jaquarh@jaquarh:~$ print x/x 0xf3e6d338
+gdb > break *unlock_jaquarhs_profile+89
+gdb >  set disassembly-flavour intel
+gdb >  run $(python -c 'print A*44')
+gdb >  print x/x 0xf3e6d338
 
 "https://stackoverflow.com/users/5897602/jaquarh?tab=profile"
 ```
