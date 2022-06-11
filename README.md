@@ -46,8 +46,6 @@ jaquarh@jaquarh:~$ print x/x 0xf3e6d338
 * Top 40 On SO for PHP
 * ~6k^ Reputation
 
-</br>
-</br>
 
 ### $ sudo su 
 ```shell
