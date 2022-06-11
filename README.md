@@ -17,9 +17,6 @@ jaquarh@jaquarh:~$ whoami
 
 Previously, served in the UK Armed Forces, Infantry. Currently, senior PHP developer and cyber security enthusiast. Applying the #TryHarder methodology to everything.
 
-![image](https://user-images.githubusercontent.com/63207324/135754304-3ee4dd9c-7336-45d9-90f7-3676cb7848f5.png)
-
-
 
 ### Current Interests
 ```shell
@@ -43,7 +40,6 @@ jaquarh@jaquarh:~$ print x/x 0xf3e6d338
 
 "https://stackoverflow.com/users/5897602/jaquarh?tab=profile"
 ```
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/P0J0D2R.png">
 
 ### StackOverflow
 * Top 3 In Birmingham (PHP)
