@@ -1622,7 +1622,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kyle-Jeynes/CloudPentestCheatsheets</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository contains a collection of cheatsheets I have put together for tools related to pentesting organizations that leverage cloud providers.</div>
@@ -1669,7 +1669,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kyle-Jeynes/MFASweep</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool for checking if MFA is enabled on multiple Microsoft Services</div>
@@ -2399,7 +2399,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2022, 22:18:10 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 28 Jun 2022, 23:24:43 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
