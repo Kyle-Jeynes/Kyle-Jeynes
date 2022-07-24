@@ -1557,7 +1557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>V-E-O/rdp2tcp</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jun 24 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">rdp2tcp: open tcp tunnel through remote desktop connection.</div>
@@ -2367,7 +2367,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2022, 20:19:02 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 24 Jul 2022, 21:24:01 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
