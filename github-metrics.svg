@@ -1564,7 +1564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>t3l3machus/Villain</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Villain is a Windows &amp; Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.</div>
@@ -2370,7 +2370,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2022, 21:17:18 (timezone Europe/London) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 19 Dec 2022, 22:18:32 (timezone Europe/London) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
