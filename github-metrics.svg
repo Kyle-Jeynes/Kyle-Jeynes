@@ -1533,7 +1533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SharonBrizinov/secfeed</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Security feed, done in the stupid simple way</div>
@@ -1586,7 +1586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>komodorio/helm-dashboard</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The missing UI for Helm - visualize your releases</div>
@@ -2150,7 +2150,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.97m out of 372m repositories</span>
+                                    <span class="gh">ranked 1.99m out of 372m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2301,7 +2301,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.95m out of 372m repositories</span>
+                                    <span class="gh">ranked 4.19m out of 372m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2392,7 +2392,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jan 2023, 19:20:50 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Jan 2023, 20:19:59 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
