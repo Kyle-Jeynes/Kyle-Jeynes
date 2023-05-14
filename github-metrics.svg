@@ -1516,7 +1516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phalcon/phalcon</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[WIP] Phalcon Framework. Work will continue after release of v5.0</div>
@@ -2145,7 +2145,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.14m out of 401m repositories</span>
+                                    <span class="gh">ranked 2.16m out of 401m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2263,7 +2263,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.58m out of 401m repositories</span>
+                                    <span class="gh">ranked 4.72m out of 401m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2354,7 +2354,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2023, 20:13:17 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 May 2023, 21:17:04 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
