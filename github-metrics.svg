@@ -1947,7 +1947,7 @@ feat: controllers</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 292k out of 121m users</span>
+                                    <span class="gh">ranked 292k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 75 public repositories</div>
                             </div>
@@ -2176,7 +2176,7 @@ feat: controllers</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.78m out of 121m users</span>
+                                    <span class="gh">ranked 2.78m out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -2214,7 +2214,7 @@ feat: controllers</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.28m out of 49m repositories</span>
+                                    <span class="gh">ranked 2.27m out of 49m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2336,7 +2336,7 @@ feat: controllers</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2023, 03:23:28 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2023, 04:18:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
