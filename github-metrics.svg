@@ -2219,7 +2219,7 @@ feat: controllers</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.29m out of 55.4m repositories</span>
+                                    <span class="gh">ranked 2.19m out of 53.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2341,7 +2341,7 @@ feat: controllers</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Oct 2023, 23:16:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2023, 00:16:56 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
