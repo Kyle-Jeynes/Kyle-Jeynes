@@ -1449,7 +1449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>detectify/vulnerable-nginx</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An intentionally vulnerable NGINX setup</div>
@@ -1787,7 +1787,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 297k out of 124m users</span>
+                                    <span class="gh">ranked 297k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 75 public repositories</div>
                             </div>
@@ -2016,7 +2016,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.84m out of 124m users</span>
+                                    <span class="gh">ranked 2.84m out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -2054,7 +2054,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.31m out of 56.6m repositories</span>
+                                    <span class="gh">ranked 2.22m out of 55.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2176,7 +2176,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Nov 2023, 02:54:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Nov 2023, 03:19:32 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
