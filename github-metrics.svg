@@ -1471,7 +1471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>detectify/vulnerable-nginx</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An intentionally vulnerable NGINX setup</div>
@@ -2076,7 +2076,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.26m out of 46.1m repositories</span>
+                                    <span class="gh">ranked 2.02m out of 45.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2198,7 +2198,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2023, 08:22:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2023, 09:18:47 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
