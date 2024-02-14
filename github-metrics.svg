@@ -2175,7 +2175,7 @@ chore: dashboard</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.40m out of 79.7m repositories</span>
+                                    <span class="gh">ranked 2.40m out of 83.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2297,7 +2297,7 @@ chore: dashboard</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2024, 15:17:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2024, 16:21:36 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
