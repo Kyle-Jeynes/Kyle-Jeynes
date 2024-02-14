@@ -2137,7 +2137,7 @@ chore: dashboard</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.95m out of 130m users</span>
+                                    <span class="gh">ranked 2.96m out of 130m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -2175,7 +2175,7 @@ chore: dashboard</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.40m out of 79.9m repositories</span>
+                                    <span class="gh">ranked 2.40m out of 82.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2297,7 +2297,7 @@ chore: dashboard</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2024, 01:13:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2024, 02:22:28 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
