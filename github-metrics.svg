@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2524" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2840" class="">
     <defs>
         <style/>
     </defs>
@@ -1690,6 +1690,144 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 21 commits in
+                                        <span class="repo">Kyle-Jeynes/MyEmployee</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">DEV_KYLE_20240209</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#10481c2</div>
+                                        <div class="message">Merge pull request #14 from Kyle-Jeynes/DEV_JAM_20240212
+
+Dev jam 20240212</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14aae11</div>
+                                        <div class="message">stash: cop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2efdec2</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/development' into DEV_JAM_20240212</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd3e8ce</div>
+                                        <div class="message">Merge pull request #13 from Kyle-Jeynes/DEV_KYLE_20240209
+
+Push Notifications</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7f6ed2</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/development' into DEV_JAM_20240212</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b3f537</div>
+                                        <div class="message">chore: Pulling Chnages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48db791</div>
+                                        <div class="message">Merge pull request #12 from Kyle-Jeynes/DEV_KYLE_20240209
+
+chore: dashboard</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#741a408</div>
+                                        <div class="message">Merge pull request #11 from Kyle-Jeynes/DEV_KYLE_20240209
+
+chore: dashboard</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96bd964</div>
+                                        <div class="message">Merge pull request #10 from Kyle-Jeynes/DEV_KYLE_20240209
+
+chore: dashboard</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0741c01</div>
+                                        <div class="message">chore: menu left hand nav bar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c161a02</div>
+                                        <div class="message">chore: menu left hand nav bar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#407658f</div>
+                                        <div class="message">Merge pull request #9 from Kyle-Jeynes/DEV_KYLE_20240209
+
+chore: drawer context</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ab8a61</div>
+                                        <div class="message">Merge pull request #8 from Kyle-Jeynes/DEV_KYLE_20240209
+
+chore: dashboard</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5ef844</div>
+                                        <div class="message">chore: menu left hand nav bar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8104676</div>
+                                        <div class="message">chore: menu left hand nav bar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d13f28</div>
+                                        <div class="message">Merge pull request #7 from Kyle-Jeynes/DEV_KYLE_20240209
+
+Dashboard</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fead228</div>
+                                        <div class="message">chore: menu left hand nav bar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28dfd45</div>
+                                        <div class="message">Merge pull request #3 from Kyle-Jeynes/DEV_KYLE_20240209
+
+Refresh &amp; Networking</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a666f48</div>
+                                        <div class="message">Merge pull request #2 from Kyle-Jeynes/DEV_KYLE_20240209
+
+chore: move migration to entrypoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37db4e4</div>
+                                        <div class="message">Merge pull request #1 from Kyle-Jeynes/DEV_KYLE_20240209
+
+Feat: SQLite &amp; Migrations</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Kyle-Jeynes/MyEmployee</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">DEV_KYLE_20240209</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ae046cf</div>
+                                        <div class="message">chore: stash</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">Kyle-Jeynes/MyEmployee</span>
                                     </div>
@@ -1744,46 +1882,6 @@ Push Notifications</div>
                                 <div class="details">
                                     <div> in <span class="repo">Kyle-Jeynes/MyEmployee</span></div>
                                     <div>11 files changed <span class="code">++855 --21</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Kyle-Jeynes/MyEmployee</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">DEV_KYLE_20240209</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#51fb884</div>
-                                        <div class="message">chore: push notifications</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Kyle-Jeynes/MyEmployee</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">DEV_KYLE_20240209</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6ee046a</div>
-                                        <div class="message">chore: stash</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2140,7 +2238,7 @@ Push Notifications</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.40m out of 76.3m repositories</span>
+                                    <span class="gh">ranked 2.40m out of 81.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2262,7 +2360,7 @@ Push Notifications</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Feb 2024, 19:14:48 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Feb 2024, 20:17:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
