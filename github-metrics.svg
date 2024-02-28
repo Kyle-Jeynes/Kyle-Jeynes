@@ -2167,7 +2167,7 @@ Dev kyle 20240209</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.42m out of 76m repositories</span>
+                                    <span class="gh">ranked 2.42m out of 75.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2289,7 +2289,7 @@ Dev kyle 20240209</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2024, 14:15:22 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Feb 2024, 15:17:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
