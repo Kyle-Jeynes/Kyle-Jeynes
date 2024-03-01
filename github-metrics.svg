@@ -1450,7 +1450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oblador/react-native-animatable</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Standard set of easy to use animations and declarative transitions for React Native</div>
@@ -1503,7 +1503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thedevenvironment/expo-router-typescript</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quickstart Expo Application with Typescript and Expo Router Baked In.</div>
@@ -2129,7 +2129,7 @@ feat: calendar</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.42m out of 78.1m repositories</span>
+                                    <span class="gh">ranked 2.42m out of 73.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2251,7 +2251,7 @@ feat: calendar</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Mar 2024, 13:18:23 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Mar 2024, 14:15:44 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
