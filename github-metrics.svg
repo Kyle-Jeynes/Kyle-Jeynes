@@ -2112,7 +2112,7 @@ feat: calendar</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.99m out of 131m users</span>
+                                    <span class="gh">ranked 3m out of 131m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -2150,7 +2150,7 @@ feat: calendar</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.42m out of 71.3m repositories</span>
+                                    <span class="gh">ranked 2.42m out of 74.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2272,7 +2272,7 @@ feat: calendar</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Mar 2024, 17:15:57 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Mar 2024, 18:21:50 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
