@@ -2123,7 +2123,7 @@ feat: calendar</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.43m out of 72.6m repositories</span>
+                                    <span class="gh">ranked 2.43m out of 76.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2245,7 +2245,7 @@ feat: calendar</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2024, 21:15:41 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Mar 2024, 22:18:26 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
