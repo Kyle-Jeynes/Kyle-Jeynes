@@ -1466,7 +1466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openai-php/laravel</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API</div>
@@ -1742,7 +1742,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2025, 22:26:53 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2025, 23:26:55 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
