@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1582" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1616" class="">
     <defs>
         <style/>
     </defs>
@@ -1479,7 +1479,7 @@
                                         <span>starred Feb 09 2026</span>
                                     </div>
                                 </div>
-                                <div class="field description">An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.</div>
+                                <div class="field description">Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, autonomously exploits it from a Kali sandbox with human approval gates, and opens PRs that fix what it finds. MCP both ways: plug in any MCP server as a tool, or drive RedAmon from Claude Code or your own agent.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1751,7 +1751,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2026, 07:33:20 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2026, 08:26:53 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
